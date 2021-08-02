@@ -1,2 +1,1 @@
 # maxlife
-maxlife_website
